@@ -27,5 +27,5 @@
 2. **Incentivize long-term contract upgrades**
 3. **Upsell protective services and stable payment methods**
 
-Prepared by: **Business Analytics Team**  
+Prepared by: **THAIS RIBEIRO**  
 Audience: **Customer Experience & Product Strategy Teams**
