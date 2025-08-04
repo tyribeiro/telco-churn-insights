@@ -59,6 +59,7 @@ See full workflow ideas in the `workflow/` folder.
 │   └── executive_summary.md
 │   └── prompt_versions.md
 ├── workflow/
-│   └── make_workflow_idea.md
-├── assets/
+│   ├── weekly_risk_evaluator.md
+    ├── churn_response_alert.md
+    └── personalized_retention_emails.md
 ```
