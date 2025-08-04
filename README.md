@@ -31,6 +31,20 @@ See `/docs/executive_summary.md`
 
 ---
 
+---
+
+## 🔧 Automation Blueprints (Make.com)
+
+This project includes 3 real-world suggested automation scenarios designed to support AI-powered churn analysis:
+
+1. **Weekly Churn Risk Evaluator** – Flags new high-risk customers every week.
+2. **Real-Time Churn Response Alert** – Detects churned customers instantly.
+3. **Personalized Retention Email Campaign** – Sends auto-generated winback emails using OpenAI.
+
+See full workflow ideas in the `workflow/` folder.
+
+---
+
 ## 🔧 Suggested GitHub Folder Structure
 ```
 📁 ai-telco-churn-insights/
